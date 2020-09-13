@@ -7,6 +7,8 @@ public class First {
         f.test();
     }
     public  void test(){
+
         System.out.println("llll");
+        System.out.println(2222222);
     }
 }
